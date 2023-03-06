@@ -1,0 +1,11 @@
+D:\C#\XSDAGL\obj\Debug\XSDAGL.csproj.AssemblyReference.cache
+D:\C#\XSDAGL\obj\Debug\XSDAGL.Form1.resources
+D:\C#\XSDAGL\obj\Debug\XSDAGL.Properties.Resources.resources
+D:\C#\XSDAGL\obj\Debug\XSDAGL.csproj.GenerateResource.cache
+D:\C#\XSDAGL\obj\Debug\XSDAGL.csproj.CoreCompileInputs.cache
+D:\C#\XSDAGL\bin\Debug\XSDAGL.exe
+D:\C#\XSDAGL\bin\Debug\XSDAGL.pdb
+D:\C#\XSDAGL\obj\Debug\XSDAGL.exe
+D:\C#\XSDAGL\obj\Debug\XSDAGL.pdb
+D:\C#\XSDAGL\obj\Debug\XSDAGL.frmLogin.resources
+D:\C#\XSDAGL\obj\Debug\XSDAGL.frmMain.resources
