@@ -1,0 +1,17 @@
+D:\C#\Test\bin\Debug\net6.0-windows\Test.exe
+D:\C#\Test\bin\Debug\net6.0-windows\Test.deps.json
+D:\C#\Test\bin\Debug\net6.0-windows\Test.runtimeconfig.json
+D:\C#\Test\bin\Debug\net6.0-windows\Test.dll
+D:\C#\Test\bin\Debug\net6.0-windows\Test.pdb
+D:\C#\Test\obj\Debug\net6.0-windows\Test.csproj.AssemblyReference.cache
+D:\C#\Test\obj\Debug\net6.0-windows\Test.csproj.GenerateResource.cache
+D:\C#\Test\obj\Debug\net6.0-windows\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Test\obj\Debug\net6.0-windows\Test.AssemblyInfoInputs.cache
+D:\C#\Test\obj\Debug\net6.0-windows\Test.AssemblyInfo.cs
+D:\C#\Test\obj\Debug\net6.0-windows\Test.csproj.CoreCompileInputs.cache
+D:\C#\Test\obj\Debug\net6.0-windows\Test.dll
+D:\C#\Test\obj\Debug\net6.0-windows\refint\Test.dll
+D:\C#\Test\obj\Debug\net6.0-windows\Test.pdb
+D:\C#\Test\obj\Debug\net6.0-windows\Test.genruntimeconfig.cache
+D:\C#\Test\obj\Debug\net6.0-windows\ref\Test.dll
+D:\C#\Test\obj\Debug\net6.0-windows\Test.FrmLogin.resources

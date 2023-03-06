@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form2", "Form2.csproj", "{8C5EA469-2D68-443C-BD74-6F4E9F61D5E5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Form2打包", "..\Form2打包\Form2打包.vdproj", "{748F296F-74BC-46A3-98C0-ADEC2911A9E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C5EA469-2D68-443C-BD74-6F4E9F61D5E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C5EA469-2D68-443C-BD74-6F4E9F61D5E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C5EA469-2D68-443C-BD74-6F4E9F61D5E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C5EA469-2D68-443C-BD74-6F4E9F61D5E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{748F296F-74BC-46A3-98C0-ADEC2911A9E1}.Debug|Any CPU.ActiveCfg = Debug
+		{748F296F-74BC-46A3-98C0-ADEC2911A9E1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {580FC716-7FA3-467A-B37C-C0FC8DAFCDF5}
+	EndGlobalSection
+EndGlobal

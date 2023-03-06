@@ -1,0 +1,10 @@
+D:\C#\Form2\bin\Debug\Form2.exe
+D:\C#\Form2\bin\Debug\Form2.pdb
+D:\C#\Form2\obj\Debug\Form2.csproj.AssemblyReference.cache
+D:\C#\Form2\obj\Debug\Form2.FrmLogin.resources
+D:\C#\Form2\obj\Debug\Form2.Properties.Resources.resources
+D:\C#\Form2\obj\Debug\Form2.csproj.GenerateResource.cache
+D:\C#\Form2\obj\Debug\Form2.csproj.CoreCompileInputs.cache
+D:\C#\Form2\obj\Debug\Form2.exe
+D:\C#\Form2\obj\Debug\Form2.pdb
+D:\C#\Form2\obj\Debug\Form2.frmMain.resources
